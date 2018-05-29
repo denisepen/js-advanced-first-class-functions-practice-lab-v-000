@@ -45,4 +45,4 @@ function averageRevenue(drivers){
     return (total + driver.revenue)
   },0)
   return total/(driver.length+1)
-}
+}2
