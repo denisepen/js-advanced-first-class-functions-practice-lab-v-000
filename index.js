@@ -21,7 +21,7 @@ function logDriversByHometown(drivers, town){
 }
 
 function driversByRevenue(drivers){
-  return driverArray = drivers.sort(newArray)
+  return driverArray = [...drivers].sort(newArray)
 }
 
 const newArray = function(a,b){
