@@ -5,8 +5,6 @@ driver = [
   {name: "bob", hometown: "frankfurt"}
 ]
 
-
-
 function logDriverNames(drivers){
   drivers.forEach(function(driver){
     console.log(driver.name)
