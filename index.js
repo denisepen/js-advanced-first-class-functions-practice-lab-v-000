@@ -29,7 +29,7 @@ const newArray = function(a,b){
 }
 function driversByName(drivers){
 
-  return newArray = [...drivers].sort(function(a,b){
+  return driverArray = [...drivers].sort(function(a,b){
     return a.name - b.name
   })
 }
