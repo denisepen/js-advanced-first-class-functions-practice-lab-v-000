@@ -27,9 +27,9 @@ function driversByRevenue(drivers){
 const newArray = function(a,b){
   return a.revenue - b.revenue
 }
-function driversByName(drivers){
 
+function driversByName(drivers){
   return driverArray = [...drivers].sort(function(a,b){
-    return return a.localeCompare(b)
+   return a.localeCompare(b)
   })
 }
