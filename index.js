@@ -1,8 +1,8 @@
 // Code your solution in this file!
 
 driver = [
-  {name: "frank"},
-  {name: "bob"}
+  {name: "frank", hometown: "chicago"},
+  {name: "bob", hometown: "frankfurt"}
 ]
 
 
