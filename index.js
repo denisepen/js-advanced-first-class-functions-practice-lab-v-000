@@ -20,4 +20,3 @@ function logDriversByHometown(drivers, town){
     }
   })
 }
-
