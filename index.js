@@ -7,6 +7,13 @@ driver = [
 
 
 
-function logDriverNames(){
-
+function logDriverNames(drivers){
+  drivers.forEach(function(driver){
+    console.log(driver.name)
+  })
 }
+
+
+// const printName = function(name){
+//   console.log()
+// }
