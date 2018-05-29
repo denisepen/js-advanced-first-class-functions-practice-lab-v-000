@@ -1,6 +1,7 @@
 // Code your solution in this file!
 
 const driver = [
+  {name: "elliot", hometown: "paris", revenue: 8500}
   {name: "frank", hometown: "chicago", revenue: 2000},
   {name: "bob", hometown: "frankfurt", revenue: 2500}
 ]
