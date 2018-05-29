@@ -1,8 +1,8 @@
 // Code your solution in this file!
 
 driver = [
-  {name: "frank", hometown: "chicago"},
-  {name: "bob", hometown: "frankfurt"}
+  {name: "frank", hometown: "chicago", revenue: 2000},
+  {name: "bob", hometown: "frankfurt", revenue: 2500}
 ]
 
 function logDriverNames(drivers){
