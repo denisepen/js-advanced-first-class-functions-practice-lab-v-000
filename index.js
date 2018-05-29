@@ -30,6 +30,6 @@ const newArray = function(a,b){
 function driversByName(drivers){
 
   return driverArray = [...drivers].sort(function(a,b){
-    return return (a.name).localeCompare(b.name)
+    return return (a).localeCompare(b)
   })
 }
